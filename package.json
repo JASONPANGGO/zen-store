@@ -1,6 +1,7 @@
 {
-  "name": "zen-store",
+  "name": "@jasonpang/zen-store",
   "version": "0.0.1",
+  "repository": "https://github.com/JASONPANGGO/zen-store.git",
   "description": "An extremely simple react store works with React.useSyncExternalStore",
   "scripts": {
     "build": "tsup index.ts",
