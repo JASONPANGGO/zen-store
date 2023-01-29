@@ -4,7 +4,7 @@
   "repository": "https://github.com/JASONPANGGO/zen-store.git",
   "description": "An extremely simple react store works with React.useSyncExternalStore",
   "scripts": {
-    "build": "tsup index.ts",
+    "build": "tsup index.ts --minify",
     "test": "jest"
   },
   "exports": {
