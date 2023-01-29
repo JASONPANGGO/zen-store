@@ -3,6 +3,8 @@
 <img align="right" width="92" height="92" title="zen"
      src="https://user-images.githubusercontent.com/37395391/215339187-0aefcfe1-8ac8-46ff-a1f7-a2f59d451a75.png">
 
+[![NPM version](https://img.shields.io/npm/v/@jasonpang/zen-store)](https://www.npmjs.com/package/@jasonpang/zen-store)
+
 An extremely simple react store works with React.useSyncExternalStore
 
 * Zero dependency.
@@ -10,7 +12,7 @@ An extremely simple react store works with React.useSyncExternalStore
 ## Install
 
 ```shell
-npm i zen-store -S
+npm i @jasonpang/zen-store -S
 ```
 
 ## Usage
