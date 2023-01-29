@@ -2,6 +2,10 @@
 
 An extremely simple react store works with React.useSyncExternalStore
 
+![zen](https://user-images.githubusercontent.com/37395391/215339187-0aefcfe1-8ac8-46ff-a1f7-a2f59d451a75.png)
+
+* Zero dependency.
+
 ## Install
 
 ```shell
