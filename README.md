@@ -1,8 +1,9 @@
 # zen-store
 
-An extremely simple react store works with React.useSyncExternalStore
+<img align="right" width="92" height="92" title="zen"
+     src="https://user-images.githubusercontent.com/37395391/215339187-0aefcfe1-8ac8-46ff-a1f7-a2f59d451a75.png">
 
-![zen](https://user-images.githubusercontent.com/37395391/215339187-0aefcfe1-8ac8-46ff-a1f7-a2f59d451a75.png)
+An extremely simple react store works with React.useSyncExternalStore
 
 * Zero dependency.
 
